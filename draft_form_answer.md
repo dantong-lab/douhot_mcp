@@ -41,5 +41,5 @@ douhot-billboard 是一个标准 MCP（Model Context Protocol）服务器，将�
 
 ## 六、Demo
 
-- 仓库/演示链接：（待开源后填写：GitHub repo URL）
+- 仓库/演示链接：**https://github.com/dantong-lab/douhot_mcp**
 - 实测样例：2026-11-09 真实抓取「低粉爆款×旅行风景×近7天」44 条数据（lp_scenery_44.csv），2026-11-11 MCP 工具链路冒烟测试通过（data/ 目录留档）。
