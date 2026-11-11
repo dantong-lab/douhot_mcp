@@ -1,5 +1,9 @@
+# 敏感与本地工作文件
+.gh_*
+.qq_*
+.owa_*
+*.png
+!docs/**/*.png
 __pycache__/
 *.pyc
-data/
-*.log
-.env
+.venv/

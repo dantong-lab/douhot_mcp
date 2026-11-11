@@ -1,0 +1,93 @@
+{
+ "meta": {
+  "sub_type": 1002,
+  "sub_type_name": "低粉爆款",
+  "date_window": 168,
+  "tags": [
+   "旅行风景"
+  ],
+  "tags_resolved": [
+   {
+    "value": 629,
+    "children": [
+     {
+      "value": 62905
+     }
+    ]
+   }
+  ],
+  "page": 1,
+  "page_size": 3,
+  "fetched_at": "2026-11-11T11:31:04"
+ },
+ "result": {
+  "code": 0,
+  "msg": "",
+  "total": 46,
+  "objs": [
+   {
+    "item_id": "7083007734735539496",
+    "item_title": "餐厅与大海相结合的悠闲时光#治愈系风景#旅行大玩家 #美人鱼餐厅",
+    "item_cover_url": "https://p9-sign.douyinpic.com/tos-cn-p-0015/3868e88fe91e49f089b8ff4afaffcb3a~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1795575600&x-signature=0si%2FuZCoteZ4tpipsaE3vXyHK6A%3D&from=327834062&s=PackSourceEnum_PUBLISH&se=false&sc=cover&biz_tag=aweme_video&l=202611111131042E656C9B4429EEEF1C05",
+    "item_duration": 9521,
+    "nick_name": "Lanse",
+    "avatar_url": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_a86dd8ccc567ab6a9eaf365b076aae72.jpeg?from=2956013662",
+    "fans_cnt": 6080,
+    "play_cnt": 6620,
+    "publish_time": 1649141252,
+    "score": 391,
+    "item_url": "https://v26-colds.douyinvod.com/45f71246a665ce01d2f1f40458f0c833/6af68481/video/tos/cn/tos-cn-ve-15c001-alinc2/2aec2ee0b44b46c58bc4099c11fab227/?a=1128&ch=10&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=3620&bt=3620&cs=0&ds=3&ft=NYGV5HJHH_Myq8ZC.c__e2NvjTQ&mime_type=video_mp4&qs=0&rc=ZDg4ZWc5OmQ7OzQ1M2Y0ZUBpamUzOjs6ZnZ4PDMzNGkzM0A1L15hMDAyNWMxLjEvMi8tYSNvZWlpcjRnXzJgLS1kLWFzcw%3D%3D&btag=c0010e0008f000&cquery=103R_109X_100b_105O_103Q&dy_q=1794367864&l=202611111131042E656C9B4429EEEF1C05",
+    "like_cnt": 73,
+    "follow_cnt": 4,
+    "follow_rate": 0.000557,
+    "like_rate": 0.011027,
+    "media_type": 4,
+    "favorite_id": 0,
+    "is_favorite": false,
+    "image_cnt": 0
+   },
+   {
+    "item_id": "7205802193226665276",
+    "item_title": "锦澜沙滩，昆山锦溪镇的一个小众景点，适合带小孩子来玩，好像不收门票！#旅行推荐官 #春日游玩攻略 #早春踏歌行 #亲子游玩好去处 #锦溪镇",
+    "item_cover_url": "https://p26-sign.douyinpic.com/tos-cn-p-0015/ogAYeWbA9IwAvCQbCEEDfsnkVVF8DArCBg5ZJA~tplv-dy-resize-walign-adapt-aq:720:q75.jpeg?lk3s=138a59ce&x-expires=1795575600&x-signature=XGMe0UpAoO3HvZ4o7fMbm2COS78%3D&from=327834062&s=PackSourceEnum_PUBLISH&se=false&sc=cover&biz_tag=aweme_video&l=202611111131042E656C9B4429EEEF1C05",
+    "item_duration": 22499,
+    "nick_name": "中国自助游",
+    "avatar_url": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_916379ecf6cf32e7d31805168db7402e.jpeg?from=2956013662",
+    "fans_cnt": 1414,
+    "play_cnt": 59674,
+    "publish_time": 1677731574,
+    "score": 186,
+    "item_url": "https://v9-colds.douyinvod.com/2e3e3f60fb5931932cbe4411af64ac77/6af6848e/video/tos/cn/tos-cn-ve-0015c800/osGAsZkfQJ9eDrwA8CAEAIUnAgJCA9YBFkbTxC/?a=1128&ch=10&cr=3&dr=0&lr=all&cd=0%7C0%7C0%7C3&cv=1&br=2532&bt=2532&cs=0&ds=3&ft=NYGV5HJHH_Myq8ZC.c__e2NvjTQ&mime_type=video_mp4&qs=0&rc=ODw6NWVkNjZnOTk8ZWU0ZUBpanhyNjM6ZnQ1ajMzNGkzM0AyMjZjLTEyXi0xMl5fLzRiYSMvbHJqcjRvYC1gLS1kLS9zcw%3D%3D&btag=c0010e00090000&cquery=105O_103Q_103R_103S_100b&dy_q=1794367864&feature_id=f0150a16a324336cda5d6dd0b69ed299&l=202611111131042E656C9B4429EEEF1C05",
+    "like_cnt": 21,
+    "follow_cnt": 1,
+    "follow_rate": 1.4e-05,
+    "like_rate": 0.000352,
+    "media_type": 4,
+    "favorite_id": 0,
+    "is_favorite": false,
+    "image_cnt": 0
+   },
+   {
+    "item_id": "7294920199801785638",
+    "item_title": "#戈黛娃夫人是一名英格兰盎格鲁—萨克逊的贵族妇女，传说她为了争取减免丈夫强加于市民们的重税，裸体骑马绕行考文垂的大街。",
+    "item_cover_url": "https://p26-sign.douyinpic.com/tos-cn-i-0813c001/ogAqAymCB3GhAJfeCvIAXpAC6wgNNlD8AAnE0z~tplv-dy-resize-walign-adapt-aq:540:q75.jpeg?lk3s=138a59ce&x-expires=1795575600&x-signature=i52cdWkE0CVhlYIekStN30%2Bt%2Bto%3D&from=327834062&s=PackSourceEnum_PUBLISH&se=false&sc=cover&biz_tag=aweme_images&l=202611111131042E656C9B4429EEEF1C05",
+    "item_duration": 0,
+    "nick_name": "健康的快乐！",
+    "avatar_url": "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-i-0813c001_ocPAAII0j4BPiAvjVAAyAEayjAoK9Qai4kiCP.jpeg?from=2956013662",
+    "fans_cnt": 2064,
+    "play_cnt": 18665,
+    "publish_time": 1698480974,
+    "score": 163,
+    "item_url": "https://sf11-cdn-tos.douyinstatic.com/obj/ies-music/7029879631998569252.mp3",
+    "like_cnt": 105,
+    "follow_cnt": 5,
+    "follow_rate": 0.000251,
+    "like_rate": 0.005626,
+    "media_type": 2,
+    "favorite_id": 0,
+    "is_favorite": false,
+    "image_cnt": 1
+   }
+  ]
+ }
+}
